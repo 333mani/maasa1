@@ -1,0 +1,7 @@
+
+mani = {'azar': 1, 'hari': 2, 'muthu': 3, 'praveen': 4, 'juju': 5}
+print(mani['azar'])
+print(mani['hari'])
+print(mani['muthu'])
+print(mani['praveen'])
+print(mani['juju'])
